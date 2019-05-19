@@ -27,7 +27,7 @@ var (
 		"vhd":         "linuxkit/mkimage-vhd:3820219e5c350fe8ab2ec6a217272ae82f4b9242",
 		"dynamic-vhd": "linuxkit/mkimage-dynamic-vhd:743ac9959fe6d3912ebd78b4fd490b117c53f1a6",
 		"vmdk":        "linuxkit/mkimage-vmdk:cee81a3ed9c44ae446ef7ebff8c42c1e77b3e1b5",
-		"rpi3":        "linuxkit/mkimage-rpi3:97a9387ff0ff5db867dd8af931b825e55108bea4",
+		"rpi3":        "linuxkit/mkimage-rpi3:9e2dc61823ec82ac4a76b0a3c30038894c5d7a54",
 	}
 )
 
